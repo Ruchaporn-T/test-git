@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120" viewBox="0 0 700 120">
+  <style>
+    .t { font: bold 56px 'Poppins', 'Segoe UI', sans-serif; fill: #FF1493; }
+    .cur { fill: #FF1493; }
+  </style>
+
+  <text class="t" x="350" y="75" text-anchor="middle">
+    NAN LOVE ARM
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze" />
+  </text>
+
+  <rect class="cur" x="350" y="35" width="4" height="50">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="x" values="120;580" dur="2.5s" repeatCount="indefinite" />
+  </rect>
+
+  <text class="t" x="350" y="75" text-anchor="middle" opacity="0">
+    NAN LOVE ARM
+    <animate attributeName="opacity" values="0;0;1;1;0" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
