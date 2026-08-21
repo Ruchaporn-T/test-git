@@ -1,7 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=64&duration=2500&color=FF1493&center=true&vCenter=true&width=800&height=100&lines=NAN+LOVE+ARM" />
-</h1>
+$$\Huge \color{hotpink} \textsf{NAN LOVE ARM}$$
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-forever-ff69b4?style=for-the-badge" />
+  <a href="https://github.com/your-user/test-git">
+    <img src="d4c36c49d1f1235734964bc848990b1e.jpg" width="450" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-FOREVER-ff69b4?style=for-the-badge&labelColor=333" />
 </p>
